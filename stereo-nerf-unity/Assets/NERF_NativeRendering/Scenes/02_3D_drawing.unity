@@ -6735,7 +6735,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95ed83ffedfca3d4db67626511812c87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nerf_path: C:\Users\HCIAdmin\code\immersive-ngp\instant-ngp\data\nerf\fox
+  nerf_path: C:/Users/Stagiaire-XR/Documents/Stage IR NeRF/immersive-ngp/instant-ngp/data/nerf/fox
   model_name: base.msgpack
   leftMaterial: {fileID: 2100000, guid: fbdce1e37d6ad7d449e5ff69ef5b6a57, type: 2}
   rightMaterial: {fileID: 2100000, guid: f389675602ac843408978fe5d2ddadfa, type: 2}

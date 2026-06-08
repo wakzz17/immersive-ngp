@@ -9,3 +9,9 @@ Benchmark/
 Benchmark/*.meta
 instant-ngp/colmap.db-shm
 instant-ngp/colmap.db-wal
+instant-ngp/data/nerf/moteur/ 
+instant-ngp/data/nerf/oculus/ 
+instant-ngp/data/nerf/oculus2/ 
+instant-ngp/data/nerf/tasse_psg/ 
+instant-ngp/build/ 
+stereo-nerf-unity/Assets/Plugins/x86_64/*.dll 
